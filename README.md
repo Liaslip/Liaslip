@@ -22,7 +22,6 @@ Miro, Figma, Jira, Confluence,
 ### Контакты
 
 * Telegram: t.me/liaslip
-* GitHub: github.com/Liaslip
 * LinkedIn: linkedin.com/in/islip
 
 ---
