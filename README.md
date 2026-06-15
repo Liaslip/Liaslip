@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет👋
 
-<!--
-**Liaslip/Liaslip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Илья Слипенко**, я **младший бизнес-аналитик** с бэкграундом  **РАНХиГС** и **Яндекс Практикума**.
 
-Here are some ideas to get you started:
+Роль бизнес-аналитика стала для меня естественным выбором: мне нравится находить скрытые проблемы в процессах, задавать правильные вопросы и превращать сложную логику в понятные решения, которые помогают команде двигаться быстрее.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Навыки и инструменты
+
+**Бизнес-анализ:**
+BPMN, UML, CJM, User Story, Use Case, BRD, SRS, ТЗ
+
+**Аналитика данных:**
+SQL, Unit-экономика, Tableau, Power BI
+
+**Инструменты:**
+Miro, Figma, Jira, Confluence, 
+
+### Статус
+
+🟢 **Открыт к предложениям**
+
+### Контакты
+
+* Telegram: t.me/liaslip
+* GitHub: github.com/Liaslip
+* LinkedIn: linkedin.com/in/islip
+
+---
+
+В этом репозитории собраны мои проекты по бизнес-аналитике: кейсы, аналитические артефакты и проектная документация, демонстрирующие мой подход к анализу требований и решению бизнес-задач.
